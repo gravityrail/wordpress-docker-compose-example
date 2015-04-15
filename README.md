@@ -1,4 +1,4 @@
-# Sample configuration for developing WordPress locally
+# Sample configuration for developing WordPress using Docker Compose
 
 Based on two blog posts ([part 1](http://goldsounds.com/archives/2015/04/06/quick-and-easy-wordpress-development-using-docker/), [part 2](http://goldsounds.com/archives/2015/04/16/docker-for-wordpress-multisite-development/)) describing how to use Docker for WordPress plugin, theme and MultiSite development.
 
